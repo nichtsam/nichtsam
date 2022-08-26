@@ -1,6 +1,6 @@
-Hello there, I am Sam.
+Hello there, I am Sam.  
 Wait a minute, who are you?
-
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
 
