@@ -2,7 +2,7 @@ Hello there, I am Sam.
 Wait a minute, who are you?
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -64,5 +64,5 @@ Rust                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 2022-08-28 02:03:34 UTC
+ Last Updated on 2022-08-29 02:04:33 UTC
 <!--END_SECTION:waka-->
