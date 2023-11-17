@@ -29,16 +29,17 @@ Sunday                   111 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Astro                    56 mins             █████████████████░░░░░░░░   67.78 % 
+TypeScript               26 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minni                    1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -54,5 +55,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-11-16 01:04:23 UTC
+ Last Updated on 2023-11-17 01:04:00 UTC
 <!--END_SECTION:waka-->
