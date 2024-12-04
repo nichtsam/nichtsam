@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/u8g4G6FTZM7WSCSqTRPGSHZygT4O2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8g4G6FTZM7WSCSqTRPGSHZygT4O2?theme=nord" alt="GitRoll Profile Badge"/></a>
+
 Hello there, I am Sam.  
 Wait a minute, who are you?
   
