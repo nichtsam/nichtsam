@@ -2,45 +2,6 @@ Hello there, I am Sam.
 Wait a minute, who are you?
   
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                680 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-🌆 Daytime                1804 commits        █████████████░░░░░░░░░░░░   53.23 % 
-🌃 Evening                708 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-🌙 Night                  197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   689 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Tuesday                  412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                701 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Thursday                 613 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Friday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -54,5 +15,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-14 03:33:52 UTC
+ Last Updated on 2026-05-15 03:36:56 UTC
 <!--END_SECTION:waka-->
